@@ -1,5 +1,8 @@
 # proyecto_delivery_pato_lucas
 
+## Leer el README dentro de la carpeta lib para debug, restart, run  la app
+
+
 A new Flutter project.
 
 ## Getting Started
